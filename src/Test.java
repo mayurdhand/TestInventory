@@ -5,6 +5,7 @@ import java.net.URL;
 import java.net.URLConnection;
 
 //my comment
+//my second comment
 
 public class Test {
 	public void testPostInventoryData() throws Exception {
