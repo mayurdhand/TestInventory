@@ -4,6 +4,7 @@ import java.io.InputStreamReader;
 import java.net.URL;
 import java.net.URLConnection;
 
+//my comment
 
 public class Test {
 	public void testPostInventoryData() throws Exception {
